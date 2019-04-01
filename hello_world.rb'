@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 puts "Hello World!"
+=======
+puts "Hello World!
+"
+>>>>>>> cc708059073955eacefe3ac79b3bcea8fc908da0
